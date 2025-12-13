@@ -1,0 +1,15 @@
+:root {
+    --vp-c-brand-1: #09559d;
+
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #092e9d, #419aff);
+
+    --vp-home-hero-image-background-image: linear-gradient(-60deg, #4c34fe60 50%, #47d7ff60 50%);
+    --vp-home-hero-image-filter: blur(60px);
+}
+
+.amap-container .amap-logo,
+.amap-container .amap-copyright {
+    /* 防止高德地图的logo显示到其他元素上层 */
+    z-index: 1 !important;
+}
