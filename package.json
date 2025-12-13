@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "vitepress": "^1.2.3"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "vitepress-plugin-image-viewer": "^1.1.6"
+  }
+}
