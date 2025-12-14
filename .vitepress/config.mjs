@@ -48,7 +48,8 @@ export default defineConfig({
         siteTitle: 'ZUA Wiki',
         nav: [
             { text: "首页", link: "/" },
-            { text: "关于", link: "/aboutUs" }
+            { text: "社区", link: "/community/" },
+            { text: "关于", link: "/aboutUs/" }
         ],
         socialLinks: [
             // { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
@@ -86,7 +87,7 @@ export default defineConfig({
         outline: {
             label: "本页导航"
         },
-        sidebarMenuLabel: "网站目录",
+        sidebarMenuLabel: "百科目录",
         returnToTopLabel: "回到顶部",
         externalLinkIcon: true,
         darkModeSwitchLabel: "外观",
@@ -107,7 +108,7 @@ export default defineConfig({
                 items: [
                     { text: '招生章程', link: '/enroll/brochure' },
                     { text: '招生计划', link: '/enroll/plan' },
-                    { text: '新生入学须知(2024)', link: '/enroll/starting' }
+                    { text: '新生入学须知', link: '/enroll/starting' }
                 ]
 
             },
@@ -115,6 +116,7 @@ export default defineConfig({
                 text: '校园生活',
                 items: [
                     { text: '宿舍', link: '/life/hostel' },
+                    { text: '日常消费', link: '/life/consumption' },
                     { text: '交通出行', link: '/life/transportation' },
                 ]
 
@@ -122,7 +124,7 @@ export default defineConfig({
             {
                 text: '人才培养',
                 items: [
-                    { text: '教育教学', link: '/education/ChangingMajors' },
+                    { text: '转专业', link: '/education/ChangingMajors' },
                 ]
 
             },

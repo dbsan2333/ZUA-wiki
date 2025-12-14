@@ -16,8 +16,8 @@ hero:
       text: 👉立即开始
       link: /aboutZUA/
     - theme: alt
-      text: 关于本项目
-      link: /aboutUs/
+      text: 社区
+      link: /community/
 
 features:
   - icon: 😀
