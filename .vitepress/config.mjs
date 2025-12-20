@@ -1,14 +1,23 @@
 import { defineConfig } from 'vitepress'
+import timeline from "vitepress-markdown-timeline";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     title: "ZUA Wiki",
-    titleTemplate: ':title - 郑航百科',
+    titleTemplate: ':title - 郑航百科全书 | ZUA Wiki',
     lang: "zh-Hans",
     description: "ZUA Wiki是由郑航学子们共同编写的非官方的百科手册，涵盖学生们学习和生活的方方面面。",
     cleanUrls: true,
     srcDir: "./docs",
     head: [
+        [
+            // 关键词
+            "meta",
+            {
+                name: "keywords",
+                content: "郑航百科全书,zuawiki,郑航百科,郑州航空航天大学,郑州航空工业管理学院,郑航,zua"
+            }
+        ],
         [
             // 禁止屏幕缩放
             "meta",
@@ -34,13 +43,12 @@ export default defineConfig({
         image: {
             // md图片懒加载
             lazyLoading: true
-        }
+        },
+        config: (md) => {
+            // https://github.com/HanochMa/vitepress-markdown-timeline
+            md.use(timeline);
+        },
     },
-    // rewrites: {
-    //     // 重写路径。至于为什么使用srcDir，因为为了public在源目录
-    //     // 此方案还是不可行，废弃
-    //     "docs/:p(.*)": ":p"
-    // },
 
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config

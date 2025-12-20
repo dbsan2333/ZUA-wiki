@@ -1,10 +1,11 @@
 ---
+title: 郑航学生社区
 layout: home
 
 hero:
   name: "ZUA.fan"
   text: "郑航学生社区"
-  tagline: 不搞商业，不做营销，纯属老登用爱发电！
+  tagline: 不搞商业，不做营销，纯属老登用爱发电✌
 
 features:
   - icon: 🏝️

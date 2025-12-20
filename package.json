@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@amap/amap-jsapi-loader": "^1.0.1",
+    "vitepress-markdown-timeline": "^1.2.2",
     "vitepress-plugin-image-viewer": "^1.1.6"
   }
 }
