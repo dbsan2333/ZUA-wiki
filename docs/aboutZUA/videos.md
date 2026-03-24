@@ -2,7 +2,7 @@
 
 ### 2025年招生宣传片《星途未竟处》
 
-<video style="width:100%; aspect-ratio: 16 / 9" src="https://zua.edu.cn/__local/1/3E/DD/98B0F91DFA0CCD2AA6DEEE05C9A_A3CF4D70_36376304.mp4" control controls="controls" type="video/mp4"></video>
+<video style="width:100%; aspect-ratio: 16 / 9" src="https://zsxxw.zua.edu.cn/__local/1/3E/DD/98B0F91DFA0CCD2AA6DEEE05C9A_A3CF4D70_36376304.mp4" control controls="controls" type="video/mp4"></video>
 
 ### 郑航形象宣传片《启航》
 

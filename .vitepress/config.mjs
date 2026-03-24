@@ -132,6 +132,7 @@ export default defineConfig({
             {
                 text: '人才培养',
                 items: [
+                    { text: '大类分流', link: '/education/MajorSelection' },
                     { text: '转专业', link: '/education/ChangingMajors' },
                 ]
 
