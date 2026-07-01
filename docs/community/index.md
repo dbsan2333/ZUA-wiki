@@ -13,9 +13,9 @@ features:
     details: 纯净的QQ频道，郑航学子的专属“朋友圈”
     link: https://pd.qq.com/g/89bxbkrn8f
   - icon: 🐻
-    title: 郑航百度贴吧官方群
+    title: 郑航百度贴吧官方群（2026级迎新群）
     details: 吹水 or 抽象？吹水 and 抽象！
-    link: https://qm.qq.com/q/PdyQXdMEks
+    link: https://qm.qq.com/q/en4prDvFwA
   - icon: 🧑‍💻
     title: 郑航编程爱好者交流群
     details: 欢迎爱折腾爱技术的你来！

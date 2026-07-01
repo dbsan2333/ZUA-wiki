@@ -16,6 +16,9 @@ hero:
       text: 👉立即开始
       link: /aboutZUA/
     - theme: alt
+      text: 新生答疑
+      link: https://docs.qq.com/sheet/DY0FWV2dWZUF3ckdv
+    - theme: alt
       text: 社区
       link: /community/
 
@@ -30,5 +33,5 @@ features:
 
 
 ::: warning 🎉 郑航更名大学取得新突破
-2025年12月19日，河南省教育厅发布[《河南省教育厅关于拟申报本科学校的公示》](https://jyt.henan.gov.cn/2025/12-19/3276199.html)，拟以郑州航空工业管理学院为基础设立**郑州航空航天大学**。
+2025年12月19日，河南省教育厅发布[《河南省教育厅关于拟申报本科学校的公示》](https://baike.baidu.com/reference/61945711/533aYdO6cr3_z3kATKGOnvn3MCqRNdv5u-LWV-dzzqIPmGapB4T8TsY65dk-8LlgGx2Fs5YtMoZHw6f7CFZE5-gTc-ozQ7wrgy67Dm8)，拟以郑州航空工业管理学院为基础设立**郑州航空航天大学**。
 :::
