@@ -140,7 +140,8 @@ export default defineConfig({
             {
                 items: [,
                     { text: "其他内容正在加急更新中……" },
-                    { text: "关于本项目", link: "/aboutUs" }
+                    { text: "关于本项目", link: "/aboutUs" },
+                    { text: "历史版本归档", link: "/archive/" }
                 ]
             }
         ],
