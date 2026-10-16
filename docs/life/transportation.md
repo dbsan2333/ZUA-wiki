@@ -1,5 +1,5 @@
 <script setup>
-import amap from '../map/amap.vue'
+import amap from '../aboutZUA/amap.vue'
 </script>
 
 # 交通出行 <Badge type="tip" text="持续维护" />

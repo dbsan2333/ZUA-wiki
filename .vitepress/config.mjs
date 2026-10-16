@@ -104,11 +104,23 @@ export default defineConfig({
 
         sidebar: [
             {
+                text: '郑航速查',
+                items: [
+                    { text: '速查索引', link: '/quick/' },
+                    { text: '常用网站', link: '/quick/websites' },
+                    { text: '常用部门与电话', link: '/quick/phones' },
+                    { text: '重要时间表', link: '/quick/calendar' }
+                ]
+            },
+            {
                 text: '关于郑航',
                 items: [
                     { text: '学校简介', link: '/aboutZUA/' },
                     { text: '映像郑航', link: '/aboutZUA/videos' },
-                    { text: "校园地图", link: "/map/" }
+                    { text: '校园地图', link: '/aboutZUA/map' },
+                    { text: '校史与校庆', link: '/aboutZUA/history' },
+                    { text: '校园地标', link: '/aboutZUA/landmarks' },
+                    { text: '特色项目', link: '/aboutZUA/featured' }
                 ]
             },
             {
@@ -116,32 +128,97 @@ export default defineConfig({
                 items: [
                     { text: '招生章程', link: '/enroll/brochure' },
                     { text: '招生计划', link: '/enroll/plan' },
-                    { text: '新生入学须知', link: '/enroll/starting' }
+                    { text: '历年录取分数', link: '/enroll/admission-score' },
+                    { text: '特殊类型招生', link: '/enroll/special-types' },
+                    { text: '学院介绍', link: '/enroll/colleges' },
+                    { text: '专业详解', link: '/enroll/majors' },
+                    { text: '新生入学须知', link: '/enroll/starting' },
+                    { text: '新生入学清单', link: '/enroll/freshman-checklist' },
+                    { text: '开学前必做', link: '/enroll/freshman-before' },
+                    { text: '军训指南', link: '/enroll/military-training' },
+                    { text: '新生答疑FAQ', link: '/enroll/freshman-faq' }
                 ]
-
+            },
+            {
+                text: '学业与教务',
+                items: [
+                    { text: '选课指南', link: '/study/select-course' },
+                    { text: '考试与成绩', link: '/study/exam-score' },
+                    { text: '图书馆使用', link: '/study/library' },
+                    { text: '教务系统与校历', link: '/study/jw-system' },
+                    { text: '辅修与交流', link: '/study/minor-exchange' },
+                    { text: '转专业', link: '/study/changing-majors' },
+                    { text: '大类分流（已取消）', link: '/study/major-selection' }
+                ]
             },
             {
                 text: '校园生活',
                 items: [
                     { text: '宿舍', link: '/life/hostel' },
+                    { text: '宿舍生活技巧', link: '/life/hostel-extra' },
                     { text: '日常消费', link: '/life/consumption' },
+                    { text: '食堂指南', link: '/life/canteen' },
+                    { text: '外卖与跑腿', link: '/life/delivery' },
+                    { text: '超市与便利店', link: '/life/supermarket' },
+                    { text: '周边美食地图', link: '/life/food-around' },
                     { text: '交通出行', link: '/life/transportation' },
+                    { text: '出行补充', link: '/life/traffic-detail' },
+                    { text: '校园网络', link: '/life/network' },
+                    { text: '快递驿站', link: '/life/express' },
+                    { text: '打印文印', link: '/life/print' },
+                    { text: '洗浴与洗衣', link: '/life/bath-laundry' }
                 ]
-
             },
             {
-                text: '人才培养',
+                text: '学生事务',
                 items: [
-                    { text: '大类分流', link: '/education/MajorSelection' },
-                    { text: '转专业', link: '/education/ChangingMajors' },
+                    { text: '证件与学籍办理', link: '/affairs/id-xueji' },
+                    { text: '党团组织', link: '/affairs/party-league' },
+                    { text: '奖助与资助', link: '/affairs/scholarship-aid' },
+                    { text: '请假与留校', link: '/affairs/leave-stay' },
+                    { text: '学生组织与社团', link: '/affairs/club-org' }
                 ]
-
             },
             {
-                items: [,
-                    { text: "其他内容正在加急更新中……" },
-                    { text: "关于本项目", link: "/aboutUs" },
-                    { text: "历史版本归档", link: "/archive/" }
+                text: '健康与安全',
+                items: [
+                    { text: '校医院', link: '/health/hospital' },
+                    { text: '医保与转诊', link: '/health/insurance' },
+                    { text: '附近医院', link: '/health/nearby-hospital' },
+                    { text: '心理咨询', link: '/health/psychology' },
+                    { text: '体育运动与体测', link: '/health/sports-ptest' },
+                    { text: '校园安全', link: '/health/safety' },
+                    { text: '电信诈骗与防骗', link: '/health/antifraud' },
+                    { text: '心理危机与求助', link: '/health/crisis' }
+                ]
+            },
+            {
+                text: '毕业与发展',
+                items: [
+                    { text: '保研与推免', link: '/future/baoyan' },
+                    { text: '考研全流程', link: '/future/kaoyan' },
+                    { text: '就业与实习', link: '/future/career' },
+                    { text: '考公考编', link: '/future/civil-service' },
+                    { text: '考证与竞赛', link: '/future/certificates' },
+                    { text: '毕业与学位', link: '/future/graduation' }
+                ]
+            },
+            {
+                text: '社区',
+                items: [
+                    { text: '新生群与官方群识别', link: '/community/freshman-groups' },
+                    { text: '社团与部门招新群', link: '/community/clubs-groups' },
+                    { text: '老乡群列表', link: '/community/hometown-groups' },
+                    { text: '开学防坑', link: '/community/faq-antifraud' },
+                    { text: '课程与竞赛交流群', link: '/community/study-groups' },
+                    { text: '学长学姐说（2024）', link: '/archive/2024/seniorsSpeak2024' }
+                ]
+            },
+            {
+                items: [
+                    { text: '社区首页', link: '/community/' },
+                    { text: '关于本项目', link: '/aboutUs' },
+                    { text: '历史版本归档', link: '/archive/' }
                 ]
             }
         ],

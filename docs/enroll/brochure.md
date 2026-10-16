@@ -1,6 +1,6 @@
 # 招生章程 <Badge type="tip" text="2026年6月更新" />
 
-::: warning ⚠ 特别提醒
+::: warning ⚠️ 特别提醒
 
 本页数据采集于学校招生信息网和公众号等，仅供参考，具体以[官方招生信息网](https://zsxxw.zua.edu.cn/)为准！
 
