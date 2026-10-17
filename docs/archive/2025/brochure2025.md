@@ -1,9 +1,11 @@
 # 招生章程（2025年） <Badge type="warning" text="历史归档" />
 
 ::: danger 这是历史归档页面
+
 本页为 **2025年** 的旧版本，内容**已失效**，仅供查阅对比。
 
 👉 最新版本请查看 **[招生章程（2026年）](/enroll/brochure)**
+
 :::
 
 ::: warning ⚠️ 特别提醒
@@ -19,9 +21,6 @@
 全是爱水群的热心学长学姐，无广告营销~
 
 :::
-
-[[toc]]
-
 ## 招生简章
 
 <iframe style="width:100%;height:500px" src="https://h5.360eol.com/Public/ebook/2025/zua2025/"  seamless="seamless" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true"></iframe>
@@ -155,6 +154,15 @@
 第二十三条 本章程由郑州航空工业管理学院负责解释。郑州航空工业管理学院以前有关招生工作的规定如果有与本章程不一致之处，以本章程为准。
 
 ::: details 历史版本
-- [招生章程（2024年）](../2024/brochure2024.md)
+
+- [招生章程（2024年）](../2024/brochure2024)
 - [返回归档目录](../)
+
 :::
+
+## 相关页面
+
+- [招生计划（2025年）](plan2025) —— 同年配套看的计划数
+- [招生章程（2024年）](../2024/brochure2024) —— 上一年的归档版
+- [招生章程](../../enroll/brochure) —— 现行（2026 年）版
+- [全部历史版本归档](../)

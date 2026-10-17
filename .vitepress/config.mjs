@@ -176,7 +176,8 @@ export default defineConfig({
                     { text: '党团组织', link: '/affairs/party-league' },
                     { text: '奖助与资助', link: '/affairs/scholarship-aid' },
                     { text: '请假与留校', link: '/affairs/leave-stay' },
-                    { text: '学生组织与社团', link: '/affairs/club-org' }
+                    { text: '学生组织与社团', link: '/affairs/club-org' },
+                    { text: '第二课堂学分', link: '/affairs/second-classroom' }
                 ]
             },
             {

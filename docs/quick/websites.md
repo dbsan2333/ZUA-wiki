@@ -41,8 +41,54 @@
 | 信息管理中心 | [xxglzx.zua.edu.cn](http://xxglzx.zua.edu.cn/) | 校园网、机房、账号 |
 
 ::: tip 💡 关于 webvpn
-学校仅部分校内资源需要校园网才能访问。**没有校园网/校园卡也能用 webvpn**，图书馆数据库、知网等通过 webvpn 在校外即可访问，不必额外付费开校园网。
+
+学校仅部分校内资源需要校园网才能访问。**没有校园网/校园卡也能用 webvpn**，图书馆数据库、知网等通过 webvpn 在校外即可访问，不必额外付费开校园网。见[校园网络](../life/network)。
+
 :::
+
+## 安全、财务与健康
+
+这几个入口平时用不上，出事时是唯一门路：
+
+| 名称 | 网址 | 用途 |
+| --- | --- | --- |
+| **保卫处** | [bwc.zua.edu.cn](https://bwc.zua.edu.cn/) | 治安、消防、**反诈教育**、非机动车/机动车业务、**行人道闸录入**、报到日交通管制通知 |
+| **财务处** | [cwc.zua.edu.cn](https://cwc.zua.edu.cn/) | **收费公示**、学费住宿费、微信缴费、发票 |
+| **校医院** | [xyy.zua.edu.cn](http://xyy.zua.edu.cn/) | 门诊时间、就诊流程、**社会医保**政策与报销通知 |
+| **新闻网** | [news.zua.edu.cn](https://news.zua.edu.cn/) | 学校新闻、「**映像郑航**」视频栏目 |
+| **后勤管理处** | [hqfwzgs.zua.edu.cn](http://hqfwzgs.zua.edu.cn/) | 《后勤服务指南（学生版）》、外包服务、水质检测报告 |
+
+::: warning ⚠️ 缴费只走财务处渠道
+
+学费、住宿费、空调电费都从**财务处**公布的方式缴（空调电费走微信公众号「郑航财务处」，见[洗浴与洗衣](../life/bath-laundry)）。**任何个人收款码、"代缴"都不可信**，见[电信诈骗与防骗](../health/antifraud)。
+
+:::
+
+## 办事会直接跳到的通知页
+
+| 要办的事 | 直达页面 |
+| --- | --- |
+| **历年录取分数** | [招生信息网 · 历年分数](https://zsxxw.zua.edu.cn/index/lnfs.htm) —— 动态筛选，见[历年录取分数](../enroll/admission-score) |
+| **2026 招生专业组设置** | [郑州航院 2026 年普通本科招生专业组设置](https://zsxxw.zua.edu.cn/info/1034/2261.htm) |
+| **本科招生专业及咨询方式** | [2026 年招生专业信息及咨询方式](https://zsxxw.zua.edu.cn/info/1032/2260.htm) |
+| **研究生招生章程** | [研究生处 · 招生工作](https://yjsc.zua.edu.cn/zsgz.htm) |
+| **学校收费公示** | [财务处 · 收费公示](https://cwc.zua.edu.cn/info/1104/2718.htm) |
+| **学生医保政策** | [校医院 · 社会医保](http://xyy.zua.edu.cn/ylfgzc/shyb.htm) |
+| **第二课堂实施办法** | [校团委 · 校团字〔2022〕2 号](https://tuanwei.zua.edu.cn/info/1004/2616.htm) |
+| **推优入党流程图** | [校团委下载专区](https://tuanwei.zua.edu.cn/xzz.htm) |
+| **心理咨询服务安排** | [学工部通知](https://xsc.zua.edu.cn/info/1012/3331.htm) |
+| **就业 / 档案 / 三方** | [就业信息网办事流程](https://zhjyb.zua.edu.cn/module/newslist/id-2177/nid-6110) |
+| **宿舍翻新一类公告** | [招标公告](https://zcglc.zua.edu.cn/info/1233/4148.htm) |
+
+::: tip 💡 通知会失效，找不到就回上级栏目
+
+上面这些是**具体文章链接**，官网改版或迁移就可能 404。**打不开就回该部门首页搜标题**，别在站内找半天——各部门首页都在上面的表里。
+
+:::
+
+## 民航招飞
+
+飞行技术专业有独立招生网站：**[hyzs.zua.edu.cn](http://hyzs.zua.edu.cn/)**。体检、背景调查、招飞系统志愿走**单独批次**，与普通高考录取完全不同，详见[特殊类型招生](../enroll/special-types)。
 
 ## 19 个教学院（部）官网
 
@@ -69,5 +115,15 @@
 | 体育部 | [tyjxb.zua.edu.cn](http://tyjxb.zua.edu.cn/) |
 
 ::: tip 💡 南乌拉尔学院
+
 [国际学院（南乌拉尔学院）](http://nwlexy.zua.edu.cn/) 是**中外合作办学机构**，与上述 19 个教学院（部）并列，不计入教学院部。
+
 :::
+
+## 相关页面
+
+- [常用部门与电话](phones) —— 各科室电话与校区地址
+- [学院介绍](../enroll/colleges) —— 各学院招生咨询方式
+- [专业详解](../enroll/majors) —— 69 个专业与选科要求
+- [全年日历](calendar)
+- [郑航速查首页](index)
