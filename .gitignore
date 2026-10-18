@@ -4,3 +4,6 @@
 .vitepress/dist
 
 node_modules
+
+# 仓库用 npm（package-lock.json 已跟踪）；本地 pnpm 生成的锁文件不入库
+pnpm-lock.yaml
